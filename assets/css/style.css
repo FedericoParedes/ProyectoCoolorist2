@@ -1,0 +1,77 @@
+
+@font-face {
+    font-family: 'Coolvetica Regular';
+    src: url(../fonts/coolvetica\ rg.ttf);
+}
+
+@font-face {
+    font-family: 'Roboto Black';
+    src: url(../fonts/Roboto-Black.ttf);
+}
+
+@font-face {
+    font-family: 'Roboto Regular';
+    src: url(../fonts/Roboto-Regular.ttf);
+}
+
+
+
+h1{
+    font-family: 'Coolvetica Regular';
+    font-size: 90px;
+    color: #0a2ff1;
+    padding-left: 10px;
+}
+
+
+
+h2{
+    font-family: 'Roboto Black';
+    font-size: 30px;
+    color: #0a2ff1;
+    padding-bottom: 50px;
+    text-align: center;
+}
+
+.contParrafo{
+    margin-top: -80px;
+    word-wrap: break-word;
+}
+
+
+
+p{
+
+font-family: 'Roboto Regular';
+font-size: 18px;
+color: #04146c;
+padding: 10px;
+
+}
+
+.img{
+    background-color: #eff2ff;
+    width: 20%;
+    display: flex;
+    flex-direction: column;
+    box-sizing: content-box;
+}
+
+#image{
+    padding: 1em;
+    margin-top: 0px;
+    display: flex;
+    justify-content: center;
+}
+
+.contHead{
+    margin-top: -30px;
+    word-wrap: break-word;
+
+}
+
+.logos{
+    display: flex;
+    justify-content: space-evenly;
+}
+
